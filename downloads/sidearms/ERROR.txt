@@ -1,28 +1,0 @@
-========================================================
-  AVASAM Download Error Report
-  https://avasam.ir
-========================================================
-
-File: sidearms.zip
-URL: sidearms.zip?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=bd34892968f912e905e2133f90e63ad8%2F20260508%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260508T235547Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=0042cc6c4eb862a0f78eb6914441a9a5c77ffbd1e53ff8528adc7ad06da7f845
-Date: 2026-05-08 23:59:02 UTC
-
-ERROR:
-curl: (6) Could not resolve host: sidearms.zip
-Warning: Problem : timeout. Will retry in 5 seconds. 3 retries left.
-#=#=#                                                                          curl: (6) Could not resolve host: sidearms.zip
-Warning: Problem : timeout. Will retry in 5 seconds. 2 retries left.
-##O#-#                                                                         curl: (6) Could not resolve host: sidearms.zip
-Warning: Problem : timeout. Will retry in 5 seconds. 1 retries left.
-##O=#  #                                                                       curl: (6) Could not resolve host: sidearms.zip
-
-========================================================
-  Possible Solutions:
-========================================================
-- Check if the URL is correct and accessible
-- The file may have been removed or moved
-- The server may require authentication
-- For SourceForge: Try using the direct download link
-- Some servers block automated downloads (403 Forbidden)
-- Try again later if it is a temporary server issue
-========================================================
